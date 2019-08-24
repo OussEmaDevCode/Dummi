@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "635792229439",
+    "firebase_url": "https://dummi-f9faf.firebaseio.com",
+    "project_id": "dummi-f9faf",
+    "storage_bucket": "dummi-f9faf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635792229439:android:8d7b4da3e8ccc8b7",
+        "android_client_info": {
+          "package_name": "com.pewds.oussa.dummi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "635792229439-g55t7uen8go3svee33a1kfekep3s78i2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pewds.oussa.dummi",
+            "certificate_hash": "23774092b9ff705bf4167638e503f2cf9b311f7e"
+          }
+        },
+        {
+          "client_id": "635792229439-ud2d4i7ujj5n2jjtphs7n4b033a37h7j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDlyTJqKIehMLTktZ0I86aFi9nz_nQBoYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "635792229439-ud2d4i7ujj5n2jjtphs7n4b033a37h7j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
